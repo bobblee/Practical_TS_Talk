@@ -1,4 +1,4 @@
-# Practical_TS_Talk
+# Practical_Time_Series_Talk
 
 Material for SF ACM Chapter talk on 10/28
 
